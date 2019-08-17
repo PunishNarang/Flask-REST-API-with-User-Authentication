@@ -7,7 +7,7 @@
 4.Flask-RESTful
 
 ```
-pip install (All the libraries mentioned in the Installation) <br />
+pip install (All the libraries mentioned in the Installation) 
 python app.py (Run app.py on your machine to run the application)
 ```
 
