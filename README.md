@@ -1,6 +1,6 @@
-#Flask REST API with User Authentication
+# Flask REST API with User Authentication
 
-##Installation
+## Installation
 1.Flask
 2.Flask-JWT
 3.Flask-SQLAlchemy
@@ -11,7 +11,7 @@ pip install (All the libraries mentioned in the Installation)
 python app.py (Run app.py on your machine to run the application)
 '''
 
-##Description
+## Description
 
 This is a User authenticated REST API implemented using Flask. This API focuses on storing items and store details for a particular user.
 
@@ -19,7 +19,7 @@ For this, first user have to register. After registering , user must login to th
 
 After all this work done if user wants to logout of the system, then he can easily logout of the system with all the details saved in the DB for that particular user.
 
-##Implementation
+## Implementation
 
 Install Postman on your machine to implement this API.
 After installing, use the url on which your application is running (usually 127.0.0.1) in the methods (GET POST DELETE PUT etc) to perform the desired function.
