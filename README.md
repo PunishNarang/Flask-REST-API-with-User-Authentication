@@ -1,15 +1,15 @@
 # Flask REST API with User Authentication
 
 ## Installation
-1.Flask
-2.Flask-JWT
-3.Flask-SQLAlchemy
+1.Flask <br />
+2.Flask-JWT <br />
+3.Flask-SQLAlchemy<br />
 4.Flask-RESTful
 
-'''
-pip install (All the libraries mentioned in the Installation)
+```
+pip install (All the libraries mentioned in the Installation)<br />
 python app.py (Run app.py on your machine to run the application)
-'''
+```
 
 ## Description
 
@@ -28,4 +28,4 @@ For eg. To register a user---> http://127.0.0.1:(PORT NUMBER)/register
 
 In the Body write the username and password for the user to be registered in the json format.
 
-##Happy Coding!
+## Happy Coding!
